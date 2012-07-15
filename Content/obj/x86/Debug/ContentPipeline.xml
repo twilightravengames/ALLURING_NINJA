@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>pieces\512tree_tops.png</Source>
+      <Name>pieces\512tree_tops</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\512tree_tops.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\512tree_tops2.png</Source>
+      <Name>pieces\512tree_tops2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\512tree_tops2.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\animatedBush.png</Source>
+      <Name>pieces\animatedBush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\animatedBush.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\big-tree-trunk.png</Source>
+      <Name>pieces\big-tree-trunk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\big-tree-trunk.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\blossomParticle.png</Source>
+      <Name>pieces\blossomParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\blossomParticle.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\branch1.png</Source>
+      <Name>pieces\branch1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\branch1.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\branch2.png</Source>
+      <Name>pieces\branch2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\branch2.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\bush1.png</Source>
+      <Name>pieces\bush1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\bush1.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\bush2.png</Source>
+      <Name>pieces\bush2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\bush2.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\cherryTree.png</Source>
+      <Name>pieces\cherryTree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\cherryTree.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\cloud1.png</Source>
+      <Name>pieces\cloud1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\cloud1.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\fog-long.png</Source>
+      <Name>pieces\fog-long</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\fog-long.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\fog.png</Source>
+      <Name>pieces\fog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\fog.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\gold-platform.png</Source>
+      <Name>pieces\gold-platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\gold-platform.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\grass-big.png</Source>
+      <Name>pieces\grass-big</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\grass-big.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\grass2.png</Source>
+      <Name>pieces\grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\grass2.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\house1.png</Source>
+      <Name>pieces\house1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\house1.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\legJapaneseArch1.png</Source>
+      <Name>pieces\legJapaneseArch1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\legJapaneseArch1.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\light-beam.png</Source>
+      <Name>pieces\light-beam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\light-beam.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\light.png</Source>
+      <Name>pieces\light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\light.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\log-curved.png</Source>
+      <Name>pieces\log-curved</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\log-curved.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\log.png</Source>
+      <Name>pieces\log</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\log.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\moon.png</Source>
+      <Name>pieces\moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\moon.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\particle.png</Source>
+      <Name>pieces\particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\particle.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\red-platform.png</Source>
+      <Name>pieces\red-platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\red-platform.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\rock1.png</Source>
+      <Name>pieces\rock1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\rock1.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\rock2.png</Source>
+      <Name>pieces\rock2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\rock2.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\rock3.png</Source>
+      <Name>pieces\rock3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\rock3.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\rock4.png</Source>
+      <Name>pieces\rock4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\rock4.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\sky.jpg</Source>
+      <Name>pieces\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\sky.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\solid_black.png</Source>
+      <Name>pieces\solid_black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\solid_black.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\spikes.png</Source>
+      <Name>pieces\spikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\spikes.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\topJapaneseArch1.png</Source>
+      <Name>pieces\topJapaneseArch1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\topJapaneseArch1.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\tree-tunnel-back.png</Source>
+      <Name>pieces\tree-tunnel-back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\tree-tunnel-back.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\tree-tunnel-bottom.png</Source>
+      <Name>pieces\tree-tunnel-bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\tree-tunnel-bottom.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\tree-tunnel-top.png</Source>
+      <Name>pieces\tree-tunnel-top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\tree-tunnel-top.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\tree1.png</Source>
+      <Name>pieces\tree1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\tree1.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\tree2.png</Source>
+      <Name>pieces\tree2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\tree2.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\treeBottom2.png</Source>
+      <Name>pieces\treeBottom2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\treeBottom2.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\treeTop2.png</Source>
+      <Name>pieces\treeTop2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\treeTop2.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\window.jpg</Source>
+      <Name>pieces\window</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\window.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\yin-yang-red.png</Source>
+      <Name>pieces\yin-yang-red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\yin-yang-red.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pieces\yin-yang-yellow.png</Source>
+      <Name>pieces\yin-yang-yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\pieces\yin-yang-yellow.xnb</Output>
+      <Time>2010-09-15T21:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles_forrest\128Ground.png</Source>
+      <Name>Tiles_forrest\128Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\Tiles_forrest\128Ground.xnb</Output>
+      <Time>2010-09-15T21:26:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles_forrest\512tree_tops.png</Source>
+      <Name>Tiles_forrest\512tree_tops</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\Tiles_forrest\512tree_tops.xnb</Output>
+      <Time>2010-09-15T21:26:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles_forrest\512tree_tops2.png</Source>
+      <Name>Tiles_forrest\512tree_tops2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\Tiles_forrest\512tree_tops2.xnb</Output>
+      <Time>2010-09-15T21:26:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles_forrest\solid_black.png</Source>
+      <Name>Tiles_forrest\solid_black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\Tiles_forrest\solid_black.xnb</Output>
+      <Time>2010-09-15T21:26:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bg1.png</Source>
+      <Name>bg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\bg1.xnb</Output>
+      <Time>2010-09-15T21:29:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red_ninja.png</Source>
+      <Name>red_ninja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\red_ninja.xnb</Output>
+      <Time>2010-09-15T21:29:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>yellow_ninja.png</Source>
+      <Name>yellow_ninja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\yellow_ninja.xnb</Output>
+      <Time>2010-09-15T21:29:26-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ted Gress\Desktop\Freelance Projects\AlluringNinja\AlluringNinja\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-14T14:29:37.025813-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
